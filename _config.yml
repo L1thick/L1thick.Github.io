@@ -1,0 +1,148 @@
+# Site
+repository: L1thick/L1thick.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Robert Wagner
+title: Support Specialist
+email: 
+website: https://l1thick.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  L1thick
+# stackoverflow_username:
+linkedin_username: robert-w-067b811b4
+# youtube_username: !broken!
+
+# Additional icon links
+# Icons Linked Here: https://fontawesome.com/icons?d=gallery&m=free
+additional_links:
+  - title: Youtube
+    icon: fab fa-youtube
+    url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw/videos
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+
+
+content:
+  - title: Professional Experience 
+    layout: list 
+    content:
+      - layout: left
+        title: Insource Services INC
+        link: InsourceServices.net
+        # link_text: Insource Services
+        sub_title: Support Specialist II
+        caption: August 2021 - Current
+        quote: >
+            You can't break it in anyway I can't figure out how to fix it.
+        description: |
+            What is it I'm currently doing:
+
+            [I'm updating this section]
+
+            1. 
+
+      - layout: left
+        title: The City of Steamboat Springs
+        link: SteamboatSprings.net
+        # link_text: City Webpage
+        sub_title: Support Specialist
+        caption: June 2016 - June 2021
+        quote: >
+          That DOS Program from the 90s is mission critial. Please, find a way to make it work.
+        description: |
+            What I use to do:
+            1. Supported Windows XP, 7, 8.x, & 10, macOS, iOS, and Android systems.
+            2. Supported BYOD systems for end users and citizens.
+            3. Built and managed PC images and application deployments with Windows SCCM and related technologies.
+            4. VMWorkstation, ESXi, vSphere, and Hyper-V virtual environments for testing & production.
+            5. Configured remote deployment & inventory management tools for Windows, iOS, & Android Devices through Software Center, Office 365, Cisco Meraki MDM, Android for Work, and Apple Business Manager.
+            6. Kept documentation of software Licenses. 
+            7. Tested and evaluated new software & hardware for each departments various needs.
+            8. Maintained WSUS & Microsoft Updates for Domain Workstations.
+            9. Administrator of VoIP Phone System on Cisco’s Unified Call Manager.
+            10. Managed the technical administration and hardware for the Verizon Wireless Government account. 
+            11. Procurment of new PCs, servers, peripheries, and other various equipment for our technical needs.
+            12. Wrote training manuals and various documentation for internal IT staff and internal staff.
+            13. Built, supported, and maintained systems and equipment related to Steamboat TV6.
+            14. Scheduled, recorded and directed live T.V. broadcasts of City Council, Commission meetings, School Meetings, and other broadcast as needed.
+            15. Provided post-production editing	of audio & video files. 
+            16. Built, supported, and maintained conference room systems for city employees and citizens. 
+            17. Supported the CCTV systems at the facilities.
+            18. Worked with ticketing system "Zendesk" & "Sysaid".
+
+            Interesting Projects I worked on:
+            1. The original "Dueling Networks" solution for police car / body camera footage off-load process.
+            2. The "Mission Critical Notchoes" Mobile Carrier Network hotsport solution.
+            3. Swtiching CF-31's for iPad Pro's in the Ambulances & Fire Vehicles.
+            4. The Emulated DOS Records Database. No really, in 2017.
+            5. Drone Pilot for various areial images for the Public Works, Parks, and G.I.S. departments. 
+
+      - layout: left
+        title: Computhink
+        link: Computhink.com
+        # link_text: Computhink
+        sub_title: Intern -> Sales Engineer
+        caption: June 2014 - June 2016
+        quote: >
+            This application is going to OCR documents from the MFP? 
+        description: |
+            What did back then:
+            1. Responsible for the continued maintenance and upgrades of all internal systems, servers, and misc. hardware.
+            2. Built and	Maintained Lab	Environments	with:	Vista,	7,	8.x,	10,	Windows Server 2008, 2012, and various Linux Distros.
+            3. Administrator to Salesforce, Desk.com, Azure Services, SQL Servers: 2008, 2012, 2014.
+            4. Administrator to VMWare environments: ESXi 5.0 - 6.5, Workstation, VSphere and Veeam Backup & Replication.
+            5. Administrator to and Supervision of Snapengage Support / Sales Chat Client.
+            6. Administrator to VoIP phone systems on  RingCentral and 8x8.
+            7. Technical Admin of Wordpress.org websites and cloud hosted services through Rackspace.
+            8. Responsible for Domain Certificate compliance.
+            9. Administrator of domain services: SMB, NFS, ADS, LDAP, DNS, Print Services, DHCP.
+            10. Client software support and upgrades for Contenverse and related dependencies.
+            11. Maintain and check for backups of all in house servers, and their redundancies.
+            12. Maintain archival data of systems and user information as defined by policy.
+            13. Rebuilt knowledge base and support forms for clients and internal IT & Sales staff.
+
+
+  - title: Education & Certifications
+    layout: list
+    content:
+      - layout: left
+        title: Southern New Hampshire University
+        caption: 2020 - 2024
+        description: | 
+          Working towards my B.S. in Computer Science with a focus in Software Engineering.
+      - layout: left
+        title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
+        caption: Feb 2019
+        description: | 
+          Windows 10 is end of life in 2025, so thats cool!
+      - layout: left
+        title: Moraine Valley Community College
+        caption: 2009 - 2012
+        description: | 
+          1. Computer Support Associate Certification: Computer & LAN Technician
+          2. Computer Support Associate Certification: Computer Technician   
+
+# Footer
+footer_show_references: true
+# references_title: References on request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
