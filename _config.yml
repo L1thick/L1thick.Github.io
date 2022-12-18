@@ -49,7 +49,8 @@ content:
             2. [Updating this section]
 
       - layout: left
-        title: The City of Steamboat Springs
+        title: The City of 
+          Steamboat Springs
         link: SteamboatSprings.net
         # link_text: City webpage.
         sub_title: Support Specialist
