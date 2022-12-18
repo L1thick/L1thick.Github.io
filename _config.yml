@@ -131,7 +131,6 @@ content:
           Certifications status:
           1. [MCP] Microsoft Certified Professional, 2017
           2. [MCSA] Microsoft Certified Solutions Associate, 2019
-          
           3. [in-process] Power Apps Maker certification.
 
       - layout: left
@@ -139,15 +138,11 @@ content:
         caption: 2009 - 2012
         description: | 
           Recevied certifications:
-          1. Computer Support Associate Certification: Computer & LAN Technician
-          2. Computer Support Associate Certification: Computer Technician   
 
-# Footer
-footer_show_references: true
+          1. Computer Support Associate Certification: Computer & LAN Technician
+
+          2. Computer Support Associate Certification: Computer Technician   
+          
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
-#sass:
-#  sass_dir: _sass
-#  style: compressed
