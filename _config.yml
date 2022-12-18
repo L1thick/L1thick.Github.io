@@ -118,9 +118,10 @@ content:
         caption: 2020 - 2024
         description: | 
           Working towards a B.S. in Computer Science with a focus in Software Engineering.
-          |Relevant course work:
-            1. Class #1
-            2. Class #2
+          |Recent relevant course work:
+            1. Foundation in Application Development
+            2. Introduction to Scripting
+            3. Programming Languages
       - layout: left
         title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
