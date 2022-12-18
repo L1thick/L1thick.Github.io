@@ -3,7 +3,7 @@ repository: L1thick/L1thick.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Robert Wagner
@@ -19,8 +19,8 @@ github_username:  L1thick
 # stackoverflow_username:
 linkedin_username: robert-w-067b811b4
 
-# Additional icon links
-# Icons Linked Here: https://fontawesome.com/icons?d=gallery&m=free
+# Additional links
+# Icons here: https://fontawesome.com/icons?d=gallery&m=free
 additional_links:
   - title: Youtube
     icon: fab fa-youtube
@@ -29,7 +29,7 @@ additional_links:
 # About Section
 about_title: Things About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | # Start here.
 
 
 content:
@@ -118,7 +118,7 @@ content:
         caption: 2020 - 2024
         description: | 
           Working towards a B.S. in Computer Science with a focus in Software Engineering.
-          
+
           Recent relevant course work:
             1. Foundation in Application Development
             2. Introduction to Scripting
@@ -132,19 +132,19 @@ content:
         title: Moraine Valley Community College
         caption: 2009 - 2012
         description: | 
+        Received Certifications:
           1. Computer Support Associate Certification: Computer & LAN Technician
           2. Computer Support Associate Certification: Computer Technician   
 
 # Footer
 footer_show_references: true
-# references_title: References on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
+#sass:
+#  sass_dir: _sass
+#  style: compressed
 
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag
