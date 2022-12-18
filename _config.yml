@@ -129,9 +129,10 @@ content:
         caption: Feb 2019
         description: | 
           Certifications status:
-          1. [MCP] Microsoft Certified Professional, earned 2017.
-          2. [MCSA] Microsoft Certified Solutions Associate, earned 2019.
-          3. Currently studying for my Power Apps Maker certification.
+          1. [MCP] Microsoft Certified Professional, 2017
+          2. [MCSA] Microsoft Certified Solutions Associate, 2019
+          
+          3. [in-process] Power Apps Maker certification.
 
       - layout: left
         title: Moraine Valley Community College
