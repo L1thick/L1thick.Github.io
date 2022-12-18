@@ -27,7 +27,7 @@ additional_links:
     url: https://www.youtube.com/channel/UCnaVY7W6rN0kgV1RcFvo8uw/videos
 
 # About Section
-# about_title: About Me
+about_title: Things About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
@@ -45,11 +45,9 @@ content:
         quote: >
             You can't break it in anyway I can't figure out how to fix it.
         description: |
-            What is it I'm currently doing:
-
-            [I'm updating this section]
-
-            1. 
+            What am I up to now:
+            1. [Updating this section]
+            2. [Updating this section]
 
       - layout: left
         title: The City of Steamboat Springs
