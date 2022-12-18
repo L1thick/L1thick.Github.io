@@ -3,7 +3,7 @@ repository: L1thick/L1thick.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 3
+version: 2
 
 # Personal info
 name: Robert Wagner
@@ -29,7 +29,7 @@ additional_links:
 # About Section
 about_title: Things About Me
 about_profile_image: images/profile.jpg
-about_content: | # Start here.
+about_content: | # Start here
 
 
 content:
@@ -39,7 +39,7 @@ content:
       - layout: left
         title: Insource Services INC
         link: InsourceServices.net
-        # link_text: Insource Webpage
+        # link_text: Insource Services
         sub_title: Support Specialist II
         caption: August 2021 - Current
         quote: >
@@ -88,7 +88,7 @@ content:
       - layout: left
         title: Computhink
         link: Computhink.com
-        # link_text: Computhink Webpage
+        # link_text: Computhink
         sub_title: Intern -> Sales Engineer
         caption: June 2014 - June 2016
         quote: >
@@ -123,7 +123,6 @@ content:
             1. Foundation in Application Development
             2. Introduction to Scripting
             3. Programming Languages
-            4. Software Development Lifecycle
       - layout: left
         title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
@@ -147,5 +146,5 @@ sass:
   sass_dir: _sass
   style: compressed
 
-#plugins:
-# - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag
