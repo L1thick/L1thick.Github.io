@@ -117,7 +117,10 @@ content:
         title: Southern New Hampshire University
         caption: 2020 - 2024
         description: | 
-          Working towards my B.S. in Computer Science with a focus in Software Engineering.
+          Working towards a B.S. in Computer Science with a focus in Software Engineering.
+          Relevant course work:
+            1. Class #1
+            2. Class #2
       - layout: left
         title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
