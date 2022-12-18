@@ -115,9 +115,9 @@ content:
         title: Southern New Hampshire University
         caption: 2020 - 2024
         description: | 
-          Working towards a B.S. in Computer Science with a focus in Software Engineering.
+          1. Working towards a B.S. in Computer Science with a focus in Software Engineering.
 
-          Recent relevant course work:
+          Recent course work:
             1. Foundation in Application Development
             2. Introduction to Scripting
             3. Programming Languages
@@ -132,8 +132,6 @@ content:
 
           2. [MCSA] Microsoft Certified Solutions Associate, 2019
 
-          3. [in-process] Power Apps Maker.
-
       - layout: left
         title: Moraine Valley Community College
         caption: 2009 - 2012
@@ -141,7 +139,6 @@ content:
           1. Computer Support Associate Certification: Computer & LAN Technician
 
           2. Computer Support Associate Certification: Computer Technician   
-
 
 # Build settings
 remote_theme: sproogen/resume-theme
