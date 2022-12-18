@@ -36,7 +36,7 @@ content:
     layout: list 
     content:
       - layout: left
-        title: Insource Services INC
+        title: Insource Services Inc.
         link: InsourceServices.net
         # link_text: Insource Services webpage.
         sub_title: Support Specialist II
@@ -50,6 +50,7 @@ content:
 
       - layout: left
         title: The City of 
+        
           Steamboat Springs
         link: SteamboatSprings.net
         # link_text: City webpage.
