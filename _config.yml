@@ -39,7 +39,7 @@ content:
       - layout: left
         title: Insource Services INC
         link: InsourceServices.net
-        # link_text: Insource Services
+        # link_text: Insource Webpage
         sub_title: Support Specialist II
         caption: August 2021 - Current
         quote: >
@@ -88,7 +88,7 @@ content:
       - layout: left
         title: Computhink
         link: Computhink.com
-        # link_text: Computhink
+        # link_text: Computhink Webpage
         sub_title: Intern -> Sales Engineer
         caption: June 2014 - June 2016
         quote: >
@@ -146,5 +146,5 @@ remote_theme: sproogen/resume-theme
 #  sass_dir: _sass
 #  style: compressed
 
-#plugins:
-# - jekyll-seo-tag
+plugins:
+ - jekyll-seo-tag
