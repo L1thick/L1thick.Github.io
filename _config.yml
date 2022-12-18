@@ -123,7 +123,8 @@ content:
             1. Foundation in Application Development
             2. Introduction to Scripting
             3. Programming Languages
-            4. Software Development Lifecycle
+            4. Opperating Platforms
+            5. Software Development Lifecycle
       - layout: left
         title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
@@ -133,6 +134,7 @@ content:
         title: Moraine Valley Community College
         caption: 2009 - 2012
         description: | 
+        
         Certifications received:
           1. Computer Support Associate Certification: Computer & LAN Technician
           2. Computer Support Associate Certification: Computer Technician   
