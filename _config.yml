@@ -135,7 +135,7 @@ content:
 
 # Footer
 footer_show_references: true
-  references_title: References on requestt
+references_title: References on requestt
 
 # Build settings
 remote_theme: sproogen/resume-theme
