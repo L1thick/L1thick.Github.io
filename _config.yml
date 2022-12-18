@@ -126,23 +126,22 @@ content:
 
       - layout: left
         title: Microsoft Certifications
-        caption: Feb 2019
+        caption: 
         description: | 
-          Certifications status:
           1. [MCP] Microsoft Certified Professional, 2017
+
           2. [MCSA] Microsoft Certified Solutions Associate, 2019
-          3. [in-process] Power Apps Maker certification.
+
+          3. [in-process] Power Apps Maker.
 
       - layout: left
         title: Moraine Valley Community College
         caption: 2009 - 2012
         description: | 
-          Recevied certifications:
-
           1. Computer Support Associate Certification: Computer & LAN Technician
 
           2. Computer Support Associate Certification: Computer Technician   
-          
+
 
 # Build settings
 remote_theme: sproogen/resume-theme
