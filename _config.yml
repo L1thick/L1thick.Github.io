@@ -118,12 +118,12 @@ content:
         caption: 2020 - 2024
         description: | 
           Working towards my B.S. in Computer Science with a focus in Software Engineering.
-      - layout: center
+      - layout: left
         title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
         description: | 
 
-      - layout: right
+      - layout: left
         title: Moraine Valley Community College
         caption: 2009 - 2012
         description: | 
@@ -135,7 +135,7 @@ footer_show_references: true
 # references_title: References on request
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
