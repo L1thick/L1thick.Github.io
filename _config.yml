@@ -125,10 +125,10 @@ content:
             5. Software Development Lifecycle
 
       - layout: left
-        title: Microsoft Certifications Solutions Associate, Windows 10 (MCSA)
+        title: Microsoft Certifications
         caption: Feb 2019
         description: | 
-        Certifications status:
+          Certifications status:
           1. [MCP] Microsoft Certified Professional, earned 2017.
           2. [MCSA] Microsoft Certified Solutions Associate, earned 2019.
           3. Currently studying for my Power Apps Maker certification.
@@ -137,6 +137,7 @@ content:
         title: Moraine Valley Community College
         caption: 2009 - 2012
         description: | 
+          Recevied certifications:
           1. Computer Support Associate Certification: Computer & LAN Technician
           2. Computer Support Associate Certification: Computer Technician   
 
