@@ -77,13 +77,6 @@ content:
             17. Supported the CCTV systems at the facilities.
             18. Worked with ticketing system "Zendesk" & "Sysaid".
 
-            Interesting projects I worked on:
-            1. The original "Dueling Networks" solution for police car / body camera footage off-load process.
-            2. The "Mission Critical Notchoes" Mobile Carrier Network hotsport solution.
-            3. Swtiching CF-31's for iPad Pro's in the Ambulances & Fire Vehicles.
-            4. The Emulated DOS Records Database. No really, in 2017.
-            5. Drone Pilot for various areial images for the Public Works, Parks, and G.I.S. departments. 
-
       - layout: left
         title: Computhink
         link: Computhink.com
@@ -115,7 +108,7 @@ content:
         title: Southern New Hampshire University
         caption: 2020 - 2024
         description: | 
-          Working towards a B.S. in Computer Science with a focus in Software Engineering.
+          1. Working towards a B.S. in Computer Science with a focus in Software Engineering.
 
           Recent relevant course work:
             1. Foundation in Application Development
@@ -128,12 +121,9 @@ content:
         title: Microsoft Certifications
         caption: 
         description: | 
-          Certifications status:
           1. [MCP] Microsoft Certified Professional, 2017
 
           2. [MCSA] Microsoft Certified Solutions Associate, 2019
-
-          3. [in-process] Power Apps Maker.
 
       - layout: left
         title: Moraine Valley Community College
@@ -142,7 +132,6 @@ content:
           1. Computer Support Associate Certification: Computer & LAN Technician
 
           2. Computer Support Associate Certification: Computer Technician   
-
 
 # Build settings
 remote_theme: sproogen/resume-theme
