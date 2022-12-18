@@ -125,11 +125,12 @@ content:
             5. Software Development Lifecycle
 
       - layout: left
-        title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
+        title: Microsoft Certifications Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
         description: | 
-          1. MCP earned in 2017.
-          2. MCSA earned in 2019.
+        Certifications status:
+          1. [MCP] Microsoft Certified Professional, earned 2017.
+          2. [MCSA] Microsoft Certified Solutions Associate, earned 2019.
           3. Currently studying for my Power Apps Maker certification.
 
       - layout: left
