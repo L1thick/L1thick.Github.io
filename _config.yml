@@ -123,6 +123,7 @@ content:
             1. Foundation in Application Development
             2. Introduction to Scripting
             3. Programming Languages
+            4. Software Development Lifecycle
       - layout: left
         title: Microsoft Certified Solutions Associate, Windows 10 (MCSA)
         caption: Feb 2019
@@ -142,9 +143,9 @@ footer_show_references: true
 # Build settings
 remote_theme: sproogen/resume-theme
 
-#sass:
+sass:
 #  sass_dir: _sass
-#  style: compressed
+  style: compressed
 
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag
